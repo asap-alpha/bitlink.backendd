@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bitlink.User.Api.props" />
+</Project>
